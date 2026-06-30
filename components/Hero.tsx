@@ -4,7 +4,7 @@ import { motion, type Variants } from 'framer-motion';
 import { Button } from '@/components/ui/button';
 import Image from 'next/image';
 
-const WHATSAPP_NUMBER = '+918889612456';
+const WHATSAPP_NUMBER = '+919610597835';
 const WHATSAPP_MESSAGE = "Hello! I want to know more about it.";
 
 export function Hero() {

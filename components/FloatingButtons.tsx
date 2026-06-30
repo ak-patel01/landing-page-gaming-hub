@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '+918889612456';
+const WHATSAPP_NUMBER = '+919610597835';
 const WHATSAPP_MESSAGE = "Hello! I want to know more about it.";
 
 export function FloatingButtons() {
